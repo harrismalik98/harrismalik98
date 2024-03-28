@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Muhammad Harris</h1>
-<h3>A Full Stack MERN Developer</h3>
+<h3>A Full Stack Engineer</h3>
 
 
 
