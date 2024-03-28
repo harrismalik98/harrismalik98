@@ -6,7 +6,7 @@
 <br>
 <h2 style="padding-bottom:10px;">👨‍💻 About me</h2>
 
-- 🔭 I’m currently working as a Full Stack MERN Developer at Veevo Tech.
+- 🔭 I’m currently working as a Full Stack Engineer at Thokmandee.
 
 - 👯 I’m looking to collaborate on open-source projects, so feel free to reach out if you're interested in working together.
 
@@ -19,7 +19,7 @@
 <br>
 <h2>🚀 Skills</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,wordpress,mongodb,express,react,redux,nodejs)](https://github.com/harrismalik98)
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,jquery,bootstrap,wordpress,mongodb,express,react,redux,nodejs,nextjs)](https://github.com/harrismalik98)
 
 
 
